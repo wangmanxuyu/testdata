@@ -1,9 +1,11 @@
 {
-  "data":{
-    list:[
-      '今天是好天气',
-      '明天也是好天气',
-      '每天都是好天气'    
-    ] 
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
